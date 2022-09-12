@@ -51,7 +51,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Kaveeshasithum/DARK-NERO-BOT.git
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot.git
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -66,7 +66,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/NeroBot-MD4
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
 cd NeroBot-MD
 npm start
 ```
@@ -78,7 +78,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/NeroBot-MD4
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
 cd DarkNero-MD2
 npm start
 ```
